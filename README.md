@@ -13,28 +13,7 @@
 
 #### [Click here](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) to get started!
 
-## GITHUB
 
-### Quickstart
-https://docs.github.com/en/get-started/quickstart/contributing-to-projects
-Pull request
-https://github.com/Connie818/DevOps-Apprenticeship-Notes.git
-
-### git
-markdown cheatsheet
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
-### Cloning With
-https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls
-
-https://stackoverflow.com/questions/3959924/whats-the-difference-between-git-clone-mirror-and-git-clone-bare
-
-### Resolving a merge conflict on GitHub
-
-https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github
-
-### HTTPs vs SSH
-https://ourtechroom.com/tech/https-vs-ssh-in-git/
 
 
 *All combined notes, links and documents are listed below:
@@ -98,6 +77,27 @@ https://ourtechroom.com/tech/https-vs-ssh-in-git/
 ## General Helpful Links 
 - [Explain Shell](https://explainshell.com/)
   
+## GITHUB
 
+### Quickstart
+https://docs.github.com/en/get-started/quickstart/contributing-to-projects
+Pull request
+https://github.com/Connie818/DevOps-Apprenticeship-Notes.git
+
+### git
+markdown cheatsheet
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+### Cloning With
+https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls
+
+https://stackoverflow.com/questions/3959924/whats-the-difference-between-git-clone-mirror-and-git-clone-bare
+
+### Resolving a merge conflict on GitHub
+
+https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github
+
+### HTTPs vs SSH
+https://ourtechroom.com/tech/https-vs-ssh-in-git/
 
 
